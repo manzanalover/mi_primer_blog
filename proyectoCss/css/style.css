@@ -1,0 +1,11 @@
+body {
+    background-color: blue;
+}
+
+#titulo-uno {background-color: limegreen;}
+
+.titulo-tres {background-color: greenyellow;
+color: white;}
+h1 {
+    background-color: tomato;
+}
